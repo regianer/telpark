@@ -3,11 +3,12 @@
 This is a repository Telpark test for Web application using selenium Webdriver and the Capybara framework in Ruby language
 
 Capybara documentation: https://www.rubydoc.info/github/jnicklas/capybara
+
 Selenium documentation: https://www.selenium.dev/documentation/en/getting_started/
 
 Choosing a Ruby IDE, one suggestion is Visual Studio Code.
 Clone the project using this command in the terminal
-git clone
+git clone https://github.com/regianer/telpark.git
 Install bundler from terminal
 gem install bundler
 Install project dependencies
